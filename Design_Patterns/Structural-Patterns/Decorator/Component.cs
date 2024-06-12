@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.Decorator
+﻿namespace Design_Patterns.Structural_Patterns.Decorator
 {
     public abstract class Component
     {

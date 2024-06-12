@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.Builder
+﻿namespace Design_Patterns.Creational_Patterns.Builder
 {
     public class Product
     {
